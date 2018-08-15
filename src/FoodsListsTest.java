@@ -38,7 +38,7 @@ public class FoodsListsTest {
 
 	@Test
 	public void testGetFoodPrice() {
-		assertEquals(new FoodsLists().getFoodPrice(),("76.4"));
+		assertEquals(new FoodsLists().getFoodPrice(),("74.4"));
 	}
 
 	@Test
